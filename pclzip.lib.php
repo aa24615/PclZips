@@ -25,6 +25,8 @@
 // $Id: pclzip.lib.php,v 1.60 2009/09/30 21:01:04 vblavet Exp $
 // --------------------------------------------------------------------------------
 
+namespace php127;
+
 // ----- Constants
 if (!defined('PCLZIP_READ_BLOCK_SIZE')) {
     define('PCLZIP_READ_BLOCK_SIZE', 2048);
@@ -172,6 +174,8 @@ define( 'PCLZIP_CB_POST_LIST', 78006 );
 define( 'PCLZIP_CB_PRE_DELETE', 78007 );
 define( 'PCLZIP_CB_POST_DELETE', 78008 );
 */
+
+
 
 // --------------------------------------------------------------------------------
 // Class : PclZip

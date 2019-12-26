@@ -20,6 +20,16 @@ use php127/PclZip;
 
 */
 
+//安装方法
+
+
+/*
+
+composer require php127/pclzip
+
+*/
+
+
 0 - Sommaire
 ============
     1 - Introduction

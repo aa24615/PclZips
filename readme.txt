@@ -10,6 +10,10 @@
 
 
 
+//这是一个pclzip的增强版
+//TA解决了pclzip中文乱码问题
+
+
 0 - Sommaire
 ============
     1 - Introduction

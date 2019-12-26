@@ -11,8 +11,14 @@
 
 
 //这是一个pclzip的增强版
-//TA解决了pclzip中文乱码问题
+//TA解决了pclzip gbk中文乱码问题
+//可同时安装原作者pclzip 但空间命名不一样
+//如下
+/*
 
+use php127/PclZip;
+
+*/
 
 0 - Sommaire
 ============
